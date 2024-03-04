@@ -3,10 +3,12 @@
   align-items: center;
   justify-content: space-between;
   margin: 0 auto;
-  padding: 1rem 4rem;
+  max-width: 90%;
+  padding: 1rem 2rem;
   position: stickey;
   z-index: 3;
   top: 0;
+  height: 4rem;
 }
 
 .portfolio_desktop-menu-item {
