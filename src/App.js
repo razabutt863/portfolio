@@ -4,10 +4,10 @@ import Hero from "./components/Hero";
 
 function App() {
   return <div>
-    <NavBar/>
-    <Hero/>
+    <NavBar />
+    <Hero />
   </div>;
 }
 
-export default App;
+export default App; 
  
